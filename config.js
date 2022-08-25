@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918606088752']
-global.OwnerNumber = ['918606088752']
-global.ownertag = ['918606088752']
-global.BotName = "Chisato"
-global.packname = "Chisato bot"
-global.author = "By: Hackerz-Lab"
-global.OwnerName = "Martin"
-global.BotSourceCode = "https://github.com/hackerz-lab/Chisato-BOT"
-global.SupportGroupLink = "https://chat.whatsapp.com/KsxG3EcpkvG1pKMYxk93NY"
+global.Owner = ['212636249972']
+global.OwnerNumber = ['212636249972']
+global.ownertag = ['212636249972']
+global.BotName = "Senpai"
+global.packname = "senpai"
+global.author = "swords"
+global.OwnerName = "senpai"
+global.BotSourceCode = "ask for it"
+global.SupportGroupLink = "ok"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,7 +27,7 @@ global.location = "Kerala, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/hackerz-lab"
+global.websitex = ""
 global.lolhuman = "KaysaS"
 
 
